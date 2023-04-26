@@ -1,0 +1,34 @@
+{
+  "name": "nam-react",
+  "version": "1.0.0",
+  "description": "nam react",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtharvaBhatnagar/Nam-React.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Atharva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtharvaBhatnagar/Nam-React/issues"
+  },
+  "homepage": "https://github.com/AtharvaBhatnagar/Nam-React#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "Last 2 versions"
+  ]
+}
